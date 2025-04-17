@@ -1,4 +1,4 @@
-A Curtain Opener
+# A Curtain Opener
 
 ## Overview
 This repository is about a smart curtain opener and includes various components like a clock, environmental sensors, servo motor control, and more, all integrated with an UNO R3 and an ESP32.
