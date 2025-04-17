@@ -1,8 +1,7 @@
-# ESE-5190 Smart Devices Final Project
-Final Repository for ESE-5190 Smart Devices
+A Curtain Opener
 
 ## Overview
-This repository contains the final project for ESE-5190. It is about a smart curtain opener and includes various components like a clock, environmental sensors, servo motor control, and more, all integrated with an UNO R3 and an ESP32.
+This repository is about a smart curtain opener and includes various components like a clock, environmental sensors, servo motor control, and more, all integrated with an UNO R3 and an ESP32.
 
 ## Components
 
